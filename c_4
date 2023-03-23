@@ -2,7 +2,7 @@
 ~ 4주차 복습
 ~ 4주차 실습
 
-```c
+```C
 #include <stdio.h>
 int main() 
 {
